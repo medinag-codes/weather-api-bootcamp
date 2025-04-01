@@ -3,8 +3,7 @@ This is a website I made using the NASA API to return the picture of the day for
 
 **Link to project:** []
 
-![Simple Weather API](/images/Simple%20Weather%20API.png)
-![Simple Weather API - Return](/images/Simple%20Weather%20API%20-%20Result.png)
+![Weather API](/images/Simple%20Weather%20API%20-%20Result.png)
 
 ## How It's Made:
 
